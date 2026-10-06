@@ -37,6 +37,7 @@ SHA1 (patch-source3_printing_samba-bgqd.c) = e9b83c35fbb24c702650d745b82fe6c9efb
 SHA1 (patch-source3_smbd_quotas.c) = 7f959964fac3ee435c57a115c8f5b6407e57b777
 SHA1 (patch-source3_smbd_smb1__process.c) = ff59b9b4f4bdfff2761613ff84fbd669899ea540
 SHA1 (patch-source3_utils_net__offlinejoin.c) = defb3ad930ba88ec040bda8899efd24e2a95f294
+SHA1 (patch-source3_winbindd_winbindd__dual__ndr.c) = e27b3a3066c098acc7dbf722bd0d642c3b331804
 SHA1 (patch-source4_auth_gensec_wscript__build) = 01f3cdf787833e05f2e0b49ff0af7c8bbad2c161
 SHA1 (patch-source4_dsdb_samdb_ldb__modules_wscript__build__server) = 47f55ec16b667a0a4d38de5ac89a117f2ac8f898
 SHA1 (patch-source4_scripting_wscript__build) = aac6894d49f5c17a28d26cb627be8cef1902bb1e

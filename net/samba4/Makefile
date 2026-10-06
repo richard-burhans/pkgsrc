@@ -2,7 +2,7 @@
 
 # XXX: Fails to build when mit-krb5 is installed.
 DISTNAME=	samba-4.24.7
-PKGREVISION=	2
+PKGREVISION=	3
 CATEGORIES=	net
 MASTER_SITES=	https://download.samba.org/pub/samba/stable/
 
